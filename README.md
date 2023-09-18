@@ -64,3 +64,8 @@ The following is the journey—a fusion of hands-on projects, data visualization
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manethportfolio&theme=github_dark" />
 
 </div>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/manethportfolio/count.svg" />
+</p>
