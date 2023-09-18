@@ -2,10 +2,13 @@
   <h1 align="center"> 🏄‍♂️ Maneth Balasooriya  </h1>
 </p>
 
-## 'Digital Craftsman (Developer/Data Enthusiast/Entreprenuerial)'
+#
+
+## 'Digital Craftsman (Developer/Data Enthusiast)'
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
+<br><br>
 </p>
 
 <p align = "left"> "As a fervent data enthusiast, my journey in the realm of data analytics has been driven by an insatiable curiosity. My professional voyage is guided by the desire to delve deeper into data-savvy industries, spanning from the dynamic landscape of fintech to the intricacies of healthcare, e-commerce, and beyond. My mission is to not merely scratch the surface but to immerse myself in understanding the intricate mechanics of businesses and industries, with data as their lifeblood.
@@ -36,17 +39,19 @@ The following is the journey—a fusion of hands-on projects, data visualization
 <img align="left" alt="Ansible" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
 <br />
 
-#
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
+<br><br>
 
 ### 📊 Stats
 
 <div align="center">
-<!--   <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ManethBalasooriya&show_icons=true&theme=radical&count_private=true"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManethBalasooriya&theme=dark"/>
+<!--   <image alt="Lasal's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=manethportfolio&show_icons=true&theme=radical&count_private=true"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manethportfolio&theme=dark"/>
   <br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManethBalasooriya&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ManethBalasooriya&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ManethBalasooriya&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ManethBalasooriya&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manethportfolio&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manethportfolio&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manethportfolio&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manethportfolio&theme=github_dark" />
 
 </div>
