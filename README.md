@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h2 align="center" style="font-size: 24px;"> Digital Craftsman (Developer/Data Enthusiast)  </h2>
+  <h2 align="left" style="font-size: 24px;"> Digital Craftsman (Developer/Data Enthusiast)  </h2>
 </p>
 
 #
