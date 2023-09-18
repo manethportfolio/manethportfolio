@@ -1,10 +1,12 @@
 <p align="center">
-  <h1 align="center"> 🏄‍♂️ Maneth Balasooriya  </h1>
+  <h2 align="center" style="font-size: 20px;"> 🏄‍♂️ Maneth Balasooriya  </h2>
+</p>
+
+<p align="center">
+  <h2 align="center" style="font-size: 24px;"> Digital Craftsman (Developer/Data Enthusiast)  </h2>
 </p>
 
 #
-
-## 'Digital Craftsman (Developer/Data Enthusiast)'
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
@@ -18,6 +20,8 @@ I believe that data is the compass that navigates modern enterprises, and unlock
 The following is the journey—a fusion of hands-on projects, data visualization, and collaborative contributions. From Python scripts to machine learning models, my work is a testament to my dedication to mastering the art and science of data. Join me in this voyage, as we decode the language of data together and reshape industries through its transformative power."
 
 </p>
+
+#
 
 ### 🧰 Language and tools
 
@@ -39,9 +43,12 @@ The following is the journey—a fusion of hands-on projects, data visualization
 <img align="left" alt="Ansible" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain-wordmark.svg" />
 <br />
 
+<p>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 <br><br>
+
+</p>
 
 ### 📊 Stats
 
