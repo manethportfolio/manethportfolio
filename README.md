@@ -1,9 +1,9 @@
 <p align="center">
-  <h2 align="center" style="font-size: 24px;"> 🏄‍♂️ Maneth Balasooriya  </h2>
+  <h1 align="center" style="font-size: 22px;"> 🏄‍♂️ Maneth Balasooriya  </h1>
 </p>
 
 <p align="center">
-  <h2 align="left" style="font-size: 16px;"> Digital Craftsman (Developer/Data Enthusiast)  </h2>
+  <h2 align="left" style="font-size: 18px;"> Digital Craftsman (Developer/Data Enthusiast) </h2>
 </p>
 
 <p align="center">
