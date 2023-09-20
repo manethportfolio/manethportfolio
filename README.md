@@ -56,7 +56,7 @@ The following is the journey—a fusion of hands-on projects, data visualization
 
 <div align="center">
 <!--   <image alt="Maneth's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=manethportfolio&show_icons=true&theme=radical&count_private=true"/> -->
-  <img src="https://user-images.manethportfolio.com/20955511/183303779-56649d30-2226-4797-b001-0ca1c3902132.png&theme=prussian">
+  <img src="https://user-images.manethportfolio/20955511/183303779-56649d30-2226-4797-b001-0ca1c3902132.png&theme=prussian"/>
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manethportfolio&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manethportfolio&theme=github_dark"  />
