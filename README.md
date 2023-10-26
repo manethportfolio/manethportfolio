@@ -22,10 +22,8 @@
 ⚡ Innovation: Through ongoing learning, data exploration, and insightful analysis, my goal is to unearth the hidden stories concealed within datasets. This empowers businesses to excel in a world defined by data-driven insights.
 
 <p align="center">
-  <strong>📊 Data Science | 🤖 Machine Learning | ☁️ Cloud | 🧠 Gen AI</strong><br>
-
-My journey delves into data science, machine learning, cloud technologies, and General Artificial Intelligence (Gen AI). Join me on this data-driven odyssey as we shape the future with transformative power.
-
+  <strong><span style="font-size: 24px;">📊 Data Science | 🤖 Machine Learning | ☁️ Cloud | 🧠 Gen AI</span></strong><br>
+  <span style="font-size: 18px;">My journey delves into data science, machine learning, cloud technologies, and General Artificial Intelligence (Gen AI). Join me on this data-driven odyssey as we shape the future with transformative power.</span>
 </p>
 
 <div align="center">
