@@ -31,14 +31,20 @@
 
 🧠 Gen AI: The future belongs to General Artificial Intelligence, and I'm excited to be a part of shaping this groundbreaking evolution, where AI becomes more capable and adaptable, like the human mind.
 
-</p>
-
-<h3 align="left">Reach out to me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/maneth-balasooriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maneth-balasooriya/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/manethbalasooriya" target="blank"><img align "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manethbalasooriya" height="30" width="40" /></a>
-<a href="https://leetcode.com/Maxa11/" target="blank"><img align "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Maxa11" height="30" width="40" /></a>
-</p>
+<div align="center">
+    <h3>Reach out to me:</h3>
+    <p>
+        <a href="https://www.linkedin.com/in/maneth-balasooriya/" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maneth-balasooriya/" height="30" width="40" />
+        </a>
+        <a href="https://www.kaggle.com/manethbalasooriya" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manethbalasooriya" height="30" width="40" />
+        </a>
+        <a href="https://leetcode.com/Maxa11/" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Maxa11" height="30" width="40" />
+        </a>
+    </p>
+</div>
 
 #
 
