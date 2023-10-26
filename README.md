@@ -11,6 +11,11 @@
 <br><br>
 </p>
 
+<p align="center">
+  <strong><span style="font-size: 48px;">📊 Data Science | 🤖 Machine Learning | ☁️ Cloud | 🧠 Gen AI</span></strong><br>
+  <span style="font-size: 36px;">My journey delves into data science, machine learning, cloud technologies, and General Artificial Intelligence (Gen AI). Join me on this data-driven odyssey as we shape the future with transformative power.</span>
+</p>
+
 <p align = "left">
 
 🔭 Exploration: I'm a passionate data enthusiast, embarking on an exciting journey through the expansive landscape of data analytics.
@@ -20,11 +25,6 @@
 🤝 Collaboration: My mission is not just to skim the surface but to immerse myself in the inner workings of businesses and industries. I firmly believe that data is the guiding star for modern enterprises, illuminating the path to informed decision-making and sparking innovation.
 
 ⚡ Innovation: Through ongoing learning, data exploration, and insightful analysis, my goal is to unearth the hidden stories concealed within datasets. This empowers businesses to excel in a world defined by data-driven insights.
-
-<p align="center">
-  <strong><span style="font-size: 48px;">📊 Data Science | 🤖 Machine Learning | ☁️ Cloud | 🧠 Gen AI</span></strong><br>
-  <span style="font-size: 36px;">My journey delves into data science, machine learning, cloud technologies, and General Artificial Intelligence (Gen AI). Join me on this data-driven odyssey as we shape the future with transformative power.</span>
-</p>
 
 <div align="center">
     <h3>Reach out to me:</h3>
