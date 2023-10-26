@@ -11,12 +11,33 @@
 <br><br>
 </p>
 
-<p align = "left"> "As a fervent data enthusiast, my journey in the realm of data analytics has been driven by an insatiable curiosity. My professional voyage is guided by the desire to delve deeper into data-savvy industries, spanning from the dynamic landscape of fintech to the intricacies of healthcare, e-commerce, and beyond. My mission is to not merely scratch the surface but to immerse myself in understanding the intricate mechanics of businesses and industries, with data as their lifeblood.
+<p align = "left">
 
-I believe that data is the compass that navigates modern enterprises, and unlocking its potential holds the key to informed decision-making and innovation. Through continuous learning, data exploration, and analysis, I aim to unravel the underlying narratives within datasets, enabling businesses to thrive in an era defined by data-driven insights.
+🔭 Exploration: I'm a passionate data enthusiast, embarking on an exciting journey through the expansive landscape of data analytics.
 
-The following is the journey—a fusion of hands-on projects, data visualization, and collaborative contributions. From Python scripts to machine learning models, my work is a testament to my dedication to mastering the art and science of data. Join me in this voyage, as we decode the language of data together and reshape industries through its transformative power."
+🌱 Growth: My professional voyage is driven by an unquenchable curiosity and a relentless quest for knowledge. I thrive on exploring the dynamic world of data-savvy industries, encompassing the intricate domains of fintech, healthcare, e-commerce, and more.
 
+🤝 Collaboration: My mission is not just to skim the surface but to immerse myself in the inner workings of businesses and industries. I firmly believe that data is the guiding star for modern enterprises, illuminating the path to informed decision-making and sparking innovation.
+
+⚡ Innovation: Through ongoing learning, data exploration, and insightful analysis, my goal is to unearth the hidden stories concealed within datasets. This empowers businesses to excel in a world defined by data-driven insights.
+
+🎯 Areas of Specialization:
+
+🧬 Data Science: My journey delves deep into the heart of data science, where I uncover patterns, insights, and actionable intelligence to drive businesses forward.
+
+🤖 Machine Learning: Machine learning is my playground. I thrive on creating intelligent systems that adapt, learn, and transform industries.
+
+☁️ Cloud: Cloud technologies are my canvas for innovation, enabling scalable and agile data solutions for a rapidly evolving digital world.
+
+🧠 Gen AI: The future belongs to General Artificial Intelligence, and I'm excited to be a part of shaping this groundbreaking evolution, where AI becomes more capable and adaptable, like the human mind.
+
+</p>
+
+<h3 align="left">Reach out to me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/maneth-balasooriya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maneth-balasooriya/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/manethbalasooriya" target="blank"><img align "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manethbalasooriya" height="30" width="40" /></a>
+<a href="https://leetcode.com/Maxa11/" target="blank"><img align "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Maxa11" height="30" width="40" /></a>
 </p>
 
 #
