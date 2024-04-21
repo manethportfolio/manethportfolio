@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <h2 align="left" style="font-size: 18px;"> Data Evangelist (Developer/AI Entrepreneur) </h2>
+  <h2 align="left" style="font-size: 18px;"> Data Evangelist (Developer/AI Enthusiast) </h2>
 </p>
 
 <p align="center">
